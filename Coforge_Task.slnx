@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Coforge_Task.Tests/Coforge_Task.Tests.csproj" />
+  <Project Path="Coforge_Task/Coforge_Task.csproj" />
+</Solution>

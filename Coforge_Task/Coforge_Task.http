@@ -1,0 +1,6 @@
+@Coforge_Task_HostAddress = http://localhost:5001
+
+GET {{Coforge_Task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
